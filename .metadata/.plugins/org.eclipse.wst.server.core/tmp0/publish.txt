@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Jul 25 03:45:56 UTC 2022
+org.eclipse.jst.j2ee.server\:/binary\:/home/mohamadazwardim/.m2/repository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE.jar=WEB-INF/lib/spring-web-5.2.12.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/mohamadazwardim/.m2/repository/org/springframework/spring-web/5.2.12.RELEASE/spring-web-5.2.12.RELEASE.jar=WEB-INF/lib/spring-web-5.2.12.RELEASE.jar

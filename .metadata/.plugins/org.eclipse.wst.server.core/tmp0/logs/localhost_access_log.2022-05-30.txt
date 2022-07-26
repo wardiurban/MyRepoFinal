@@ -1,0 +1,16 @@
+127.0.0.1 - - [30/May/2022:02:02:04 +0000] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [30/May/2022:02:02:06 +0000] "GET /SimpleJSPLoginAppl/index.jsp HTTP/1.1" 200 382
+127.0.0.1 - - [30/May/2022:02:07:44 +0000] "GET /SimpleJSPLoginAppl/check.jsp?email=azwardi%40maybank.com&password=123 HTTP/1.1" 404 739
+127.0.0.1 - - [30/May/2022:02:19:40 +0000] "GET /SimpleJSPLoginAppl/ HTTP/1.1" 200 382
+127.0.0.1 - - [30/May/2022:02:19:55 +0000] "GET /SimpleJSPLoginAppl/check.jsp?email=azwardi%40maybank.com&password=123 HTTP/1.1" 404 739
+127.0.0.1 - - [30/May/2022:02:20:18 +0000] "GET /SimpleJSPLoginAppl/ HTTP/1.1" 200 382
+127.0.0.1 - - [30/May/2022:02:20:43 +0000] "GET /SimpleJSPLoginAppl/check.jsp?email=azwardi%40maybank.com&password=23333 HTTP/1.1" 404 739
+127.0.0.1 - - [30/May/2022:02:32:42 +0000] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [30/May/2022:02:32:52 +0000] "GET /SimpleJSPLoginAppl/ HTTP/1.1" 200 382
+127.0.0.1 - - [30/May/2022:02:35:21 +0000] "GET /SimpleJSPLoginAppl/check.jsp?email=azwardi%40maybank.com&password=123 HTTP/1.1" 404 739
+127.0.0.1 - - [30/May/2022:02:37:02 +0000] "GET /SimpleJSPLoginAppl/ HTTP/1.1" 200 382
+127.0.0.1 - - [30/May/2022:02:37:15 +0000] "GET /SimpleJSPLoginAppl/Check.jsp?email=azwardi%40maybank.com&password=123 HTTP/1.1" 200 139
+127.0.0.1 - - [30/May/2022:02:37:24 +0000] "GET /SimpleJSPLoginAppl/Check.jsp?email=azwardi%40maybank.com&password=3333 HTTP/1.1" 200 516
+127.0.0.1 - - [30/May/2022:02:59:27 +0000] "GET /SimpleJSPLoginAppl/ HTTP/1.1" 200 398
+127.0.0.1 - - [30/May/2022:02:59:56 +0000] "POST /SimpleJSPLoginAppl/Check.jsp HTTP/1.1" 200 139
+127.0.0.1 - - [30/May/2022:03:00:08 +0000] "POST /SimpleJSPLoginAppl/Check.jsp HTTP/1.1" 200 532
